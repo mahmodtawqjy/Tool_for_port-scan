@@ -1,0 +1,2 @@
+.Now you can check more than 3500 port to the IP you want and the tool will be in your hands as soon as you download it
+الآن يمكنك التحقق من أكثر من 3500 منفذ لعنوان IP الذي تريده وستكون الأداة بين يديك بمجرد تنزيلها
